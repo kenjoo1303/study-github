@@ -4,6 +4,12 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Where does it come from?
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
+Một tấm hình được chia sẻ trên mạng xã hội Weibo về sự ra mắt sắp tới của smartphone tầm trung đến từ OPPO, có tên R17. Đây sẽ là thiết bị kế nhiệm của hai chiếc R15 và R15 Dream Mirror Edition vừa được công ty ra mắt hồi tháng 3 tại thị trường Trung Quốc. Chiếc OPPO R17 này được rò rỉ sẽ sở hữu một lượng RAM rất khủng, lên tới 10GB, ngoài thông tin trên hiện chưa có bất kì thêm thông tin nào khác về cấu hình của chiếc điện thoại này.
+
+Nếu rò rỉ là thật, đây sẽ là điện thoại thông minh đầu tiên sở hữu lượng RAM khổng lồ này. Một thiết bị khác cũng đang nhận được tin đồn sẽ có 10GB RAM là Vivo Xplay7. Chiếc Vivo này có nhiều thông tin về cấu hình hơn, gồm màn hình OLED 4K với diện tích hiển thị lên tới 92.9%, có 256/512GB bộ nhớ trong và 10GB RAM. Giá dữ đoán của chiếc Vivo này sẽ vào khoảng 
+500$
+
+
 Where does it come from?
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
